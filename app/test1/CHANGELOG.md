@@ -1,3 +1,7 @@
+## 1.0.1-feature.0
+
+ - **FIX**: add varible c.
+
 ## 1.0.2-feature.2
 
  - **FIX**: add varible c.
