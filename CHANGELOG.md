@@ -15,6 +15,28 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.0.1-b.0`](#test1---v101-b0)
+
+---
+
+#### `test1` - `v1.0.1-b.0`
+
+ - **FIX**: test.
+ - **FIX**: test.
+
+
+## 2024-04-09
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v1.0.1-SMYLEY-18.0`](#test1---v101-SMYLEY-180)
 
 ---
