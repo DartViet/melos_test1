@@ -1,3 +1,12 @@
+## 1.0.1-feature.2
+
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+
 ## 1.0.1-feature.0
 
  - **FIX**: add varible c.
