@@ -2,6 +2,17 @@
 
  - **FIX**: test.
  - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+
+## 1.0.1-SMYLEY-18.0
+
+ - **FIX**: test.
+ - **FIX**: test.
  - **FIX**: add varible c.
  - **FIX**: add varible c.
  - **FIX**: remove varible c.
