@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v0.1.0-b.2`](#test1---v010-b2)
+
+---
+
+#### `test1` - `v0.1.0-b.2`
+
+ - **FIX**: test.
+
+
+## 2024-04-10
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v0.1.0-b.1`](#test1---v010-b1)
 
 ---
