@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-04-15
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`test1` - `v0.1.0-b.3`](#test1---v010-b3)
+ - [`test2` - `v0.0.1+1`](#test2---v0011)
+
+---
+
+#### `test1` - `v0.1.0-b.3`
+
+ - **FIX**: remove c.
+
+#### `test2` - `v0.0.1+1`
+
+ - **FIX**: test.
+
+
 ## 2024-04-10
 
 ### Changes
