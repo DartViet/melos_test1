@@ -15,6 +15,42 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.1.0-b.0`](#test1---v110-b0)
+
+---
+
+#### `test1` - `v1.1.0-b.0`
+
+ - **FIX**: remove c.
+ - **FIX**: publish new versions.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+
+
+## 2024-04-17
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v0.1.0-b.4`](#test1---v010-b4)
 
 ---
