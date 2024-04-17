@@ -1,3 +1,8 @@
+## 0.1.0-b.4
+
+ - **FIX**: remove c.
+ - **FIX**: test.
+
 ## 0.1.0-b.3
 
  - **FIX**: remove c.
