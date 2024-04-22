@@ -1,5 +1,9 @@
 ## 1.3.0
 
+ - Graduate package to a stable release. See pre-releases prior to this version for changelog entries.
+
+## 1.3.0
+
  - **FEAT**: pump version.
 
 ## 1.1.0-b.34
