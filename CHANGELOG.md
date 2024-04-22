@@ -15,6 +15,55 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.3.0-feature.Feature1.0`](#test1---v130-featureFeature10)
+
+---
+
+#### `test1` - `v1.3.0-feature.Feature1.0`
+
+ - **FIX**: test1.
+ - **FIX**: test.
+ - **FIX**: testing.
+ - **FIX**: remove c.
+ - **FIX**: publish new versions.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: Testing.
+ - **FEAT**: Fixing something.
+ - **FEAT**: Fixing something.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **BUG**: fix a comment.
+
+
+## 2024-04-22
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v1.4.0`](#test1---v140)
 
 ---

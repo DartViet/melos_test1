@@ -1,3 +1,35 @@
+## 1.3.0-feature.Feature1.0
+
+ - **FIX**: test1.
+ - **FIX**: test.
+ - **FIX**: testing.
+ - **FIX**: remove c.
+ - **FIX**: publish new versions.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: Testing.
+ - **FEAT**: Fixing something.
+ - **FEAT**: Fixing something.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **BUG**: fix a comment.
+
 ## 1.4.0
 
  - **FEAT**: pump version.
