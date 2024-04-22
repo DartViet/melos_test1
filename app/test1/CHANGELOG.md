@@ -1,3 +1,10 @@
+## 1.1.0-feature.Feature1.0
+
+ - **FIX**: test1.
+ - **FIX**: test.
+ - **FIX**: testing.
+ - **FEAT**: test.
+
 ## 1.1.0-b.4
 
  - **BUG**: fix a comment.

@@ -15,6 +15,30 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.1.0-feature.Feature1.0`](#test1---v110-featureFeature10)
+
+---
+
+#### `test1` - `v1.1.0-feature.Feature1.0`
+
+ - **FIX**: test1.
+ - **FIX**: test.
+ - **FIX**: testing.
+ - **FEAT**: test.
+
+
+## 2024-04-22
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v1.1.0-b.4`](#test1---v110-b4)
 
 ---
