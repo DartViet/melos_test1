@@ -1,3 +1,22 @@
+## 1.1.0-b.3
+
+ - **FIX**: remove c.
+ - **FIX**: publish new versions.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+
 ## 1.1.0-b.0
 
  - **FIX**: remove c.
