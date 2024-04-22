@@ -15,6 +15,29 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.3.0`](#test1---v130)
+
+Packages graduated to a stable release (see pre-releases prior to the stable version for changelog entries):
+
+ - `test1` - `v1.3.0`
+
+---
+
+#### `test1` - `v1.3.0`
+
+
+## 2024-04-22
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test1` - `v1.3.0-feature.Feature1.0`](#test1---v130-featureFeature10)
 
 ---
