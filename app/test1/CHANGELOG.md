@@ -1,3 +1,29 @@
+## 1.1.0-b.33
+
+ - **FIX**: test1.
+ - **FIX**: test.
+ - **FIX**: testing.
+ - **FIX**: remove c.
+ - **FIX**: publish new versions.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: added c variable.
+ - **FEAT**: Fixing something.
+ - **FEAT**: Fixing something.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **BUG**: fix a comment.
+
 ## 1.1.0-feature.Feature1.0
 
  - **FIX**: test1.
