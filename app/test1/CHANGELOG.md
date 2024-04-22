@@ -1,3 +1,7 @@
+## 1.3.0
+
+ - **FEAT**: pump version.
+
 ## 1.1.0-b.34
 
  - **FEAT**: Testing.
