@@ -1,3 +1,7 @@
+## 1.1.0-b.4
+
+ - **BUG**: fix a comment.
+
 ## 1.1.0-b.3
 
  - **FIX**: remove c.
