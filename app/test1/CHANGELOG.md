@@ -1,3 +1,11 @@
+## 1.4.0
+
+ - **FIX**: fixt.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+
 ## 1.3.0-feature.Feature1.0
 
  - **FIX**: test1.
