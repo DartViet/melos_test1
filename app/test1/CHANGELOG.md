@@ -1,3 +1,43 @@
+## 1.2.3-SMYLEY12.5
+
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: add varible c.
+ - **FIX**: fixt.
+ - **FIX**: remove varible c.
+ - **FIX**: add varible c.
+ - **FIX**: add varible c.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test1.
+ - **FIX**: publish new versions.
+ - **FIX**: remove c.
+ - **FIX**: testing.
+ - **FIX**: test.
+ - **FIX**: added c variable.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **FEAT**: Fixing something.
+ - **FEAT**: Fixing something.
+ - **FEAT**: Testing.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: test.
+ - **FEAT**: test.
+ - **BUG**: fix a comment.
+
 ## 1.2.3-SMYLEY12.4
 
  - 2333333333
