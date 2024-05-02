@@ -1,3 +1,13 @@
+## 1.5.0
+
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: fixt.
+ - **FEAT**: test.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+ - **FEAT**: pump version.
+
 ## 1.4.0
 
  - **FIX**: fixt.
