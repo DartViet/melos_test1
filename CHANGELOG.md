@@ -40,6 +40,25 @@ Packages with other changes:
 
 #### `test1` - `v1.2.3-SMYLEY12.3`
 
+
+## 2024-05-02
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`test1` - `v1.2.3-SMYLEY12.3`](#test1---v123-SMYLEY123)
+
+---
+
+#### `test1` - `v1.2.3-SMYLEY12.3`
+
  - test1
 
 
