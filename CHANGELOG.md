@@ -15,6 +15,39 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.2.3-SMYLEY12.3`](#test1---v123-SMYLEY123)
+ - [`hello` - `v0.0.1+2`](#hello---v0012)
+
+---
+
+#### `test1` - `v1.2.3-SMYLEY12.3`
+
+ - asdfs
+
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: test.
+ - **FIX**: fixt.
+ - **FEAT**: test.
+ - **FEAT**: pump version.
+
+#### `hello` - `v0.0.1+2`
+
+ - **FIX**: test.
+
+
+## 2024-05-02
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`hello` - `v0.0.1+1`](#hello---v0011)
  - [`test1` - `v1.5.0`](#test1---v150)
 
