@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test1` - `v1.2.3-SMYLEY12.6`](#test1---v123-SMYLEY126)
+
+---
+
+#### `test1` - `v1.2.3-SMYLEY12.6`
+
+ - **FIX**: update.
+
+
+## 2024-05-31
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`myapp` - `v1.0.1`](#myapp---v101)
 
 ---
