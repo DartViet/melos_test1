@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-05-31
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`myapp` - `v1.0.1`](#myapp---v101)
+
+---
+
+#### `myapp` - `v1.0.1`
+
+ - **FIX**: test.
+
+
 ## 2024-05-02
 
 ### Changes
